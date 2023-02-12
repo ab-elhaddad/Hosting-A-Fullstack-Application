@@ -1,8 +1,9 @@
 # Hosting a Fulll-Stack Application (Udagram)
+- note: I have not uploaded the source code I used in this project because it is not mine and belongs to Udacity
 
 </br>
 
-### Fullstack application deployed on cloud using AWS and connected to CI/CD Pipeline
+### Fullstack application deployed on cloud using AWS and connected to CI/CD Pipeline on CircleCI
 
 - PostgreSQL database uploaded using RDS
 - Backend server deployed using EB
