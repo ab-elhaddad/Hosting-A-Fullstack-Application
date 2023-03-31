@@ -1,6 +1,6 @@
 # Hosting a Fulll-Stack Application (Udagram)
-## This is a documentation for the process of deploying a fullstack web application to AWS and configuring a CI/CD pipeline for the application using CircleCI.
-- note: I have not uploaded the source code I used in this project because it is not mine and belongs to Udacity
+## This is a documentation for the process of deploying a fullstack web application on AWS and configuring a CI/CD pipeline for the application using CircleCI.
+- **Note:** I have not uploaded the source code I used in this project as it is not mine and belongs to Udacity
 
 </br>
 
